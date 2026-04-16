@@ -1,1 +1,2 @@
 https://fastapi-galario.onrender.com
+https://fastapi-galario.onrender.com/docs
